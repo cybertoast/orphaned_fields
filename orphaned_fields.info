@@ -1,0 +1,4 @@
+name = Orphaned Fields 
+description = Helper command to lists all orphaned fields
+core = 7.x
+
